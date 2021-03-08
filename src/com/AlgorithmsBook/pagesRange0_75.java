@@ -6,7 +6,7 @@ import java.util.Random;
 
 
 
-public class pages67_75 {
+public class pagesRange0_75 {
 
 	static int suma = 0;
 	public static void main(String[] args) {
