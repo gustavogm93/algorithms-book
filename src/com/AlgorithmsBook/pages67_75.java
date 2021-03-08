@@ -35,7 +35,10 @@ public class pages67_75 {
 	}
 	
 	
-	
+	/**
+	 * Calculo de frecuencias de suma de lados en 5 tiradas de Dado 
+	 * 
+	 */
 	public static void dadosX5() {
 		int SIDES = 6;
 		double[] dist = new double[5 * SIDES + 1];
